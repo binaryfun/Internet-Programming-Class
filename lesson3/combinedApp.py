@@ -1,3 +1,13 @@
+#!/usr/bin/python
+
+#######################
+# Aaron Bazar
+# Combined two APIs (flickr and api.hostip.info)
+# as asked in Assignment #3
+# 01/31/11
+# This program may be useful if you want to show
+# site visitors pictures based on their location
+#####################
 import getLocation
 import getRelatedPhotos
 from pprint import pprint
@@ -14,8 +24,7 @@ def getCountry(location):
 
 def getSomePictures(ipaddr):
     """ main function. Accepts an ip address string and returns
-        list of Pictures """
-
+       html-formatted list of Pictures """
     location= getLocation.returnLocationString(ipaddr)
     location=getCountry(location)
     return(getRelatedPhotos.returnPics(location))

@@ -2,5 +2,17 @@
 # Assigment: Combine 2 apis #
 # Results: Big assignment   #
 #############################
+
+Usage: Run combinedApp.py at the command line
+You will be prompted for an ip address
+You can use your own, or any ip on the planet.
+
+The script will then take the ip address,
+query the first web service for the country location
+of the ip, then take that country and search flickr for
+related photos. 
+
+test ip addresses:
+
 123.125.71.72 --> China IP address used to test
 69.99.171.145 --> U.S. ip address to use

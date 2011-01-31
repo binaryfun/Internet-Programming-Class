@@ -1,7 +1,9 @@
+#!/usr/bin/python
 import urllib
 
 
 API_URL='http://api.hostip.info/get_html.php?ip='
+
 #################
 #http://api.hostip.info/get_html.php?ip=69.99.171.145
 #############################
