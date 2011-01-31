@@ -1,0 +1,6 @@
+#############################
+# Assigment: Combine 2 apis #
+# Results: Big assignment   #
+#############################
+123.125.71.72 --> China IP address used to test
+69.99.171.145 --> U.S. ip address to use
