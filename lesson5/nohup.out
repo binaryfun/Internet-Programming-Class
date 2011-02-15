@@ -1,0 +1,207 @@
+[14/Feb/2011 15:09:43] "GET /bob HTTP/1.1" 500 78428
+[14/Feb/2011 15:10:23] "GET /bob HTTP/1.1" 404 1943
+[14/Feb/2011 15:10:31] "GET /hello/ HTTP/1.1" 200 11
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:03:42] "GET / HTTP/1.1" 500 66553
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:05:12] "GET / HTTP/1.1" 500 66740
+[14/Feb/2011 16:05:52] "GET / HTTP/1.1" 500 49251
+[14/Feb/2011 16:34:14] "GET / HTTP/1.1" 500 49251
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:37:48] "GET / HTTP/1.1" 500 49480
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:39:09] "GET / HTTP/1.1" 500 62535
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:45:58] "GET / HTTP/1.1" 200 14
+[14/Feb/2011 16:48:28] "GET / HTTP/1.1" 200 14
+[14/Feb/2011 16:49:17] "GET / HTTP/1.1" 200 14
+[14/Feb/2011 16:49:30] "GET / HTTP/1.1" 200 28
+[14/Feb/2011 16:49:36] "GET /hello/ HTTP/1.1" 200 11
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:50:15] "GET / HTTP/1.1" 500 49437
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:50:34] "GET / HTTP/1.1" 200 28
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:50:45] "GET / HTTP/1.1" 200 28
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:51:49] "GET / HTTP/1.1" 200 56
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:52:12] "GET / HTTP/1.1" 200 56
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:53:51] "GET / HTTP/1.1" 200 66
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 16:54:40] "GET / HTTP/1.1" 200 56
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:08:54] "GET / HTTP/1.1" 200 96
+[14/Feb/2011 17:14:54] "GET / HTTP/1.1" 200 96
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:19:16] "GET / HTTP/1.1" 500 49192
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:19:56] "GET / HTTP/1.1" 200 671
+[14/Feb/2011 17:20:21] "GET / HTTP/1.1" 200 671
+[14/Feb/2011 17:22:38] "GET / HTTP/1.1" 200 468
+[14/Feb/2011 17:24:00] "GET / HTTP/1.1" 200 1033
+[14/Feb/2011 17:24:26] "GET / HTTP/1.1" 200 448
+[14/Feb/2011 17:24:58] "GET /id5 HTTP/1.1" 404 1974
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:32:50] "GET / HTTP/1.1" 200 488
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:39:40] "GET / HTTP/1.1" 200 488
+[14/Feb/2011 17:39:42] "GET /details/id5 HTTP/1.1" 200 488
+[14/Feb/2011 17:39:46] "GET /details/id5 HTTP/1.1" 200 488
+[14/Feb/2011 17:40:02] "GET /details/id4 HTTP/1.1" 200 488
+[14/Feb/2011 17:41:07] "GET /details/id4 HTTP/1.1" 200 1040
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:47:53] "GET /details/id4 HTTP/1.1" 500 79581
+[14/Feb/2011 17:48:28] "GET /details/id4 HTTP/1.1" 500 49739
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function inner_run at 0xa4b4294>
+Traceback (most recent call last):
+[14/Feb/2011 17:48:51] "GET /details/id4 HTTP/1.1" 500 49861
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:49:01] "GET /details/id4 HTTP/1.1" 500 52625
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:49:20] "GET /details/id4 HTTP/1.1" 500 52596
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:49:53] "GET /details/id4 HTTP/1.1" 200 208
+[14/Feb/2011 17:50:02] "GET /details/ HTTP/1.1" 500 52307
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'lesson5.settings'
+Development server is running at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+[14/Feb/2011 17:50:49] "GET /details/id4 HTTP/1.1" 200 156
+[14/Feb/2011 17:51:18] "GET /details/id4 HTTP/1.1" 200 172
+[14/Feb/2011 17:53:05] "GET /details/id4 HTTP/1.1" 200 408
+[14/Feb/2011 17:55:37] "GET /details/id4 HTTP/1.1" 200 436
+[14/Feb/2011 17:57:19] "GET /details/id4 HTTP/1.1" 200 417
+[14/Feb/2011 17:57:45] "GET /details/id4 HTTP/1.1" 200 190
+[14/Feb/2011 17:58:26] "GET /details/id4 HTTP/1.1" 200 209
+[14/Feb/2011 17:58:41] "GET /details/id44 HTTP/1.1" 500 52010
+[14/Feb/2011 17:58:53] "GET /details/id5 HTTP/1.1" 200 239
+[14/Feb/2011 17:58:56] "GET / HTTP/1.1" 200 488
+[14/Feb/2011 17:58:58] "GET /details/id2 HTTP/1.1" 200 252
+[14/Feb/2011 17:59:03] "GET /details/id1 HTTP/1.1" 200 231
