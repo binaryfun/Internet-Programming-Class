@@ -1,0 +1,167 @@
+[21/Feb/2011 16:13:19] "GET /admin/polls/poll/1/ HTTP/1.1" 200 14090
+[21/Feb/2011 16:13:19] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:14:32] "GET /admin/polls/poll/ HTTP/1.1" 200 4150
+[21/Feb/2011 16:14:32] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:14:35] "GET /admin/polls/poll/1/ HTTP/1.1" 200 14090
+[21/Feb/2011 16:14:35] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:17:14] "GET /admin/polls/poll/ HTTP/1.1" 200 4732
+[21/Feb/2011 16:17:14] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:21:16] "GET /admin/polls/ HTTP/1.1" 200 2605
+[21/Feb/2011 16:21:18] "GET /admin/polls/poll/ HTTP/1.1" 200 5151
+[21/Feb/2011 16:21:18] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:21:25] "GET /admin/polls/ HTTP/1.1" 200 2605
+[21/Feb/2011 16:21:26] "GET /admin/polls/choice/ HTTP/1.1" 200 4154
+[21/Feb/2011 16:21:26] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:21:27] "GET /admin/polls/choice/2/ HTTP/1.1" 200 4762
+[21/Feb/2011 16:21:27] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:21:31] "GET /admin/polls/ HTTP/1.1" 200 2605
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:22:06] "GET /admin/polls/poll/ HTTP/1.1" 200 5151
+[21/Feb/2011 16:22:06] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:22:35] "GET /admin/polls/poll/ HTTP/1.1" 200 5280
+[21/Feb/2011 16:22:35] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:22:37] "GET /admin/polls/poll/1/ HTTP/1.1" 200 14090
+[21/Feb/2011 16:22:37] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:22:42] "GET /admin/polls/poll/?pub_date__gte=2011-02-14&pub_date__lte=2011-02-21+23%3A59%3A59 HTTP/1.1" 200 5567
+[21/Feb/2011 16:22:42] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:22:45] "GET /admin/polls/poll/?pub_date__year=2011 HTTP/1.1" 200 5483
+[21/Feb/2011 16:22:45] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:22:46] "GET /admin/polls/ HTTP/1.1" 200 2605
+[21/Feb/2011 16:22:49] "GET /admin/ HTTP/1.1" 200 4584
+[21/Feb/2011 16:22:50] "GET /admin/auth/user/ HTTP/1.1" 200 5806
+[21/Feb/2011 16:22:50] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:22:52] "GET /admin/auth/user/1/ HTTP/1.1" 200 13495
+[21/Feb/2011 16:22:52] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:22:55] "GET /admin/auth/user/1/password/ HTTP/1.1" 200 2847
+[21/Feb/2011 16:22:55] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:23:07] "POST /admin/auth/user/1/password/ HTTP/1.1" 302 0
+[21/Feb/2011 16:23:08] "GET /admin/auth/user/1/ HTTP/1.1" 200 13610
+[21/Feb/2011 16:23:08] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:23:13] "GET /admin/ HTTP/1.1" 200 4584
+[21/Feb/2011 16:23:14] "GET /admin/auth/user/ HTTP/1.1" 200 5806
+[21/Feb/2011 16:23:14] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:48:52] "GET / HTTP/1.1" 404 2162
+[21/Feb/2011 16:49:05] "GET /polls/ HTTP/1.1" 200 39
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:49:41] "GET /polls/ HTTP/1.1" 200 39
+[21/Feb/2011 16:49:52] "GET /polls/34/ HTTP/1.1" 200 26
+[21/Feb/2011 16:49:54] "GET /polls/34/ HTTP/1.1" 200 26
+[21/Feb/2011 16:50:09] "GET /polls/34/vote/ HTTP/1.1" 200 25
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:51:34] "GET /polls/34/vote/ HTTP/1.1" 200 25
+[21/Feb/2011 16:51:38] "GET /polls/ HTTP/1.1" 500 57521
+[21/Feb/2011 16:53:16] "GET /polls/ HTTP/1.1" 200 88
+[21/Feb/2011 16:53:25] "GET /polls/1/ HTTP/1.1" 200 25
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:58:14] "GET /admin/ HTTP/1.1" 200 4584
+[21/Feb/2011 16:58:16] "GET /admin/polls/poll/ HTTP/1.1" 200 5280
+[21/Feb/2011 16:58:16] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:58:18] "GET /admin/polls/poll/1/ HTTP/1.1" 200 14090
+[21/Feb/2011 16:58:18] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 16:59:41] "GET /admin/polls/poll/ HTTP/1.1" 200 5280
+[21/Feb/2011 16:59:41] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 16:59:44] "GET /admin/polls/poll/1/ HTTP/1.1" 200 14090
+[21/Feb/2011 16:59:44] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+Validating models...
+0 errors found
+
+Django version 1.2.4, using settings 'mysite.settings'
+Development server is running at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+[21/Feb/2011 17:12:30] "GET /admin/polls/ HTTP/1.1" 200 2605
+[21/Feb/2011 17:12:32] "GET /admin/ HTTP/1.1" 200 4584
+[21/Feb/2011 17:12:34] "GET /admin/polls/choice/ HTTP/1.1" 200 4154
+[21/Feb/2011 17:12:35] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 17:12:36] "GET /admin/polls/choice/2/ HTTP/1.1" 200 4762
+[21/Feb/2011 17:12:36] "GET /admin/jsi18n/ HTTP/1.1" 200 1761
+[21/Feb/2011 17:12:39] "GET /admin/polls/ HTTP/1.1" 200 2605
+[21/Feb/2011 17:12:49] "GET /admin/logout/ HTTP/1.1" 200 1244
+[21/Feb/2011 17:12:50] "GET /admin/ HTTP/1.1" 200 1882
+[21/Feb/2011 17:12:56] "POST /admin/ HTTP/1.1" 302 0
+[21/Feb/2011 17:12:57] "GET /admin/ HTTP/1.1" 200 4584
