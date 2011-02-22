@@ -1,2 +1,2 @@
-admin
-dja123
+user:admin
+pass:admin123
