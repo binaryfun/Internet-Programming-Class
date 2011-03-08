@@ -1,0 +1,41 @@
+- Use mysql to fulfill that part of assignment 
+- Database scheme
+- Try to make pretty with templates
+- Useful
+######
+could not get mysql to start properly despite numerous attempts.
+I seem to be having better luck with postgres, which I have never used before.
+
+
+
+sudo apt-get install postgresql
+sudo apt-get install python-pygresql
+
+sudo -u postgres psql postgres
+psql (8.4.7)
+Type "help" for help.
+
+postgres=# \password postgres
+Enter new password:
+Enter it again:
+postgres=# \q
+
+sudo -u postgres createdb django
+
+postgress install was a bit painful, but successful
+oBEGIN;
+CREATE TABLE "worklog_siteid" (
+    "id" serial NOT NULL PRIMARY KEY,
+    "websiteName" varchar(100) NOT NULL,
+    "date_added" timestamp with time zone NOT NULL
+)
+;
+CREATE TABLE "worklog_worklog" (
+    "id" serial NOT NULL PRIMARY KEY,
+    "websiteName_id" integer NOT NULL REFERENCES "worklog_siteid" ("id") DEFERRABLE INITIALLY DEFERRED,
+    "notes" varchar(500) NOT NULL,
+    "date_added" timestamp with time zone NOT NULL
+)
+;
+COMMIT;
+

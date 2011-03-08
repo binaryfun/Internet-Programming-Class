@@ -1,0 +1,15 @@
+Really Simple:
+Use MYSQL... That is what the assignment is 
+sitename note (internal time stamp)
+
+the sitename should have an id...
+that will be one model (also timestamp)
+
+second model... 
+id + note + timestamp
+
+future models:
+
+details about each site
+plug in a monitoring system.
+Basically, turn the site into a Work Interface
